@@ -1,0 +1,5 @@
+application:
+  jwt:
+    secretKey: JAVASECURITYWEBTOKENJAVASECURITYWEBTOKENJAVASECURITYWEBTOKEN
+    tokenPrefix: Bearer
+    tokenExpirationAfterDays: 10
